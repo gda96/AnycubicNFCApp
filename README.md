@@ -14,8 +14,10 @@
 
 Официальные скомпилированные версии для Windows и Android:
 
-* 💻 [**Скачать Anycubic NFC Flasher v1.7.5 для Windows (AnycubicNFCApp_Setup_v1.7.5.exe)**](https://github.com/gda96/AnycubicNFCApp/releases/download/v1.7.5/AnycubicNFCApp_Setup_v1.7.5.exe) *(Поддержка Windows 10 / Windows 11 x64)*.
-* 📱 [**Скачать Anycubic NFC Mobile v1.2.8 для Android (AnycubicNFCApp_v1.2.8.apk)**](https://github.com/gda96/AnycubicNFCApp/releases/download/v1.7.5/AnycubicNFCApp_v1.2.8.apk) *(Поддержка Android 7.0+ с NFC чипом)*.
+* 💻 [**Скачать Anycubic NFC Flasher v1.7.5 для Windows (AnycubicNFCApp_Setup_v1.7.5.exe)**](https://github.com/gda96/AnycubicNFCApp/releases/download/v1.7.5/AnycubicNFCApp_Setup_v1.7.5.exe)  
+  *(Поддержка Windows 10 / Windows 11 x64)*
+* 📱 [**Скачать Anycubic NFC Mobile v1.2.8 для Android (AnycubicNFCApp_v1.2.8.apk)**](https://github.com/gda96/AnycubicNFCApp/releases/download/v1.7.5/AnycubicNFCApp_v1.2.8.apk)  
+  *(Поддержка Android 7.0+ с NFC чипом)*
 
 ---
 
