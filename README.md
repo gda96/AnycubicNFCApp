@@ -44,7 +44,7 @@
 Для работы с NFC-метками вам потребуются:
 
 1. **NFC-Ридер:** Считыватель карт ACR122U / ACR1252 / ACR1552 ([Купить на Ozon](https://www.ozon.ru/dialogSearch?from_global=true&p_text=acr122u&s_text=acr122u&text=acr122u)).
-2. **NFC-Метки:** Чипы NTAG213 (2 шт. на катушку) ([Купить на Ozon](https://www.ozon.ru/dialogSearch?p_text=ntag213&s_text=ntag213&text=ntag213)).
+2. **NFC-Метки:** Чипы NTAG213 ([Купить на Ozon](https://www.ozon.ru/category/aksessuary-dlya-umnogo-doma-15853/?category_was_predicted=true&deny_category_prediction=true&from_global=true&text=ntag213)).
 3. **3D-Адаптер:** Кольца для картонных катушек ([Скачать 3D-модель](https://makerworld.com/en/models/1266132-universal-cardboard-spool-adapter-ring-v2-nfc#profileId-1291900)).
 
 ---
