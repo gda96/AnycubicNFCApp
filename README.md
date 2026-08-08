@@ -1,4 +1,4 @@
-# Anycubic NFC Flasher v1.7.2 by GDA
+# Anycubic NFC Flasher v1.7.5 by GDA
 
 <p align="center">
   <img src="logo.png" alt="Anycubic NFC Flasher Logo" width="140">
@@ -14,7 +14,7 @@
 
 Официальная скомпилированная версия с простым инсталлятором:
 
-* 📦 [**Скачать Anycubic NFC Flasher v1.7.2 (AnycubicNFCApp_Setup_v1.7.2.exe)**](https://github.com/gda96/AnycubicNFCApp/releases/download/v1.7.2/AnycubicNFCApp_Setup_v1.7.2.exe)
+* 📦 [**Скачать Anycubic NFC Flasher v1.7.5 (AnycubicNFCApp_Setup_v1.7.5.exe)**](https://github.com/gda96/AnycubicNFCApp/releases/download/v1.7.5/AnycubicNFCApp_Setup_v1.7.5.exe)
 
 *(Поддержка Windows 10 / Windows 11 x64. Установка в C:\Program Files\AnycubicNFCApp с автоматическим обновлением).*
 
@@ -43,7 +43,7 @@
 
 Для работы с NFC-метками вам потребуются:
 
-1. **NFC-Ридер:** Считыватель карт ACR122U / ACR1252 / ACR1552 ([Купить на Ozon](https://www.ozon.ru/dialogSearch?from_global=true&p_text=acr122u&s_text=acr122u&text=acr122u)).
+1. **NFC-Ридер:** Считыватель карт ACR122U / ACR1252 / ACR1552 ([Купить на Ozon](https://www.ozon.ru/category/umnyy-dom-i-bezopasnost-15835/?category_was_predicted=true&deny_category_prediction=true&from_global=true&text=acr122u)).
 2. **NFC-Метки:** Чипы NTAG213 ([Купить на Ozon](https://www.ozon.ru/category/aksessuary-dlya-umnogo-doma-15853/?category_was_predicted=true&deny_category_prediction=true&from_global=true&text=ntag213)).
 3. **3D-Адаптер:** Кольца для картонных катушек ([Скачать 3D-модель](https://makerworld.com/en/models/1266132-universal-cardboard-spool-adapter-ring-v2-nfc#profileId-1291900)).
 
