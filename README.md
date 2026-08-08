@@ -1,12 +1,22 @@
 # Anycubic NFC Flasher v1.7.2 by GDA
 
 <p align="center">
-  <img src="logo.png" alt="Anycubic NFC Flasher Logo" width="128" height="128">
+  <img src="logo.png" alt="Anycubic NFC Flasher Logo" width="140">
 </p>
 
 **Anycubic NFC Flasher by GDA** — удобное и мощное настольное приложение для управления, редактирования, прошивки и резервного копирования NFC-меток **NTAG213** системы автоматической подачи филамента **Anycubic ACE Pro** (3D-принтеры серии Anycubic Kobra 3).
 
 Приложение разработано для 3D-мейкеров, которые хотят свободно использовать любые сторонние катушки пластика с системой ACE Pro, автоматически передавая принтеру тип филамента, цвет и температурные профили.
+
+---
+
+## 📥 Скачать приложение для Windows
+
+Официальная скомпилированная версия с простым инсталлятором:
+
+* 📦 [**Скачать Anycubic NFC Flasher v1.7.2 (AnycubicNFCApp_Setup_v1.7.2.exe)**](https://github.com/gda96/AnycubicNFCApp/releases/download/v1.7.2/AnycubicNFCApp_Setup_v1.7.2.exe)
+
+*(Поддержка Windows 10 / Windows 11 x64. Установка в C:\Program Files\AnycubicNFCApp с автоматическим обновлением).*
 
 ---
 
